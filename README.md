@@ -1,4 +1,4 @@
-# 👩‍💻 Welcome to Fadia Latrech's GitHub Profile! 👩‍💻
+# 👩‍💻 Welcome to my Profile! 👩‍💻
 
 Hey there! 👋 I'm Fadia, a passionate computer engineer with a knack for web and mobile development, an eye for design, and a love for creating amazing digital experiences! 🚀
 
