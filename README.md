@@ -53,7 +53,6 @@ I’m a **Computer Engineer** from Tunisia, passionate about:
 | **KERDILI**     | Flutter app for budget tracking.                                            | Flutter, Firebase              | Reduced manual entry time by 60%.        |
 | **Recrutini**   | Job recommendation platform with Angular.                                   | MEAN Stack                     | Handled 10k+ user profiles efficiently.  |
 
-*(More on [my portfolio](https://your-portfolio-link.com)!)*
 
 ---
 
