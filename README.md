@@ -9,7 +9,7 @@
 ---
 
 ## � About Me  
-I’m a **Computer Engineer** from Tunisia, passionate about:  
+I’m a **Software Developer** from Tunisia, passionate about:  
 - 💻 **Full-Stack Development** (Web/Mobile)  
 - 🤖 **AI/ML Solutions** (RAG, LLMs, TinyLlama)  
 - 🎨 **UI/UX Design** (Adobe XD, Figma)  
